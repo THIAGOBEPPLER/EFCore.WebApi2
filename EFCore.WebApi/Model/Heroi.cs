@@ -13,8 +13,5 @@ namespace EFCore.WebApi.Model
         public List<Arma> Armas { get; set; }
         public List<HerroiBatalha> HeroisBatalhas { get; set; }
 
-
-
-
     }
 }
