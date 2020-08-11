@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v3.1": {
       "EFCore.WebApi/1.0.0": {
         "dependencies": {
+          "EFCore.Dominio": "1.0.0",
+          "EFCore.Repo": "1.0.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.EntityFrameworkCore": "3.1.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6",
@@ -409,6 +411,9 @@
             "assemblyVersion": "3.1.6.0",
             "fileVersion": "3.100.620.31702"
           }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/3.1.6": {
@@ -1238,6 +1243,28 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "EFCore.Dominio/1.0.0": {
+        "runtime": {
+          "EFCore.Dominio.dll": {}
+        },
+        "compile": {
+          "EFCore.Dominio.dll": {}
+        }
+      },
+      "EFCore.Repo/1.0.0": {
+        "dependencies": {
+          "EFCore.Dominio": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.6",
+          "Microsoft.EntityFrameworkCore.Design": "3.1.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6"
+        },
+        "runtime": {
+          "EFCore.Repo.dll": {}
+        },
+        "compile": {
+          "EFCore.Repo.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3519,6 +3546,16 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "EFCore.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EFCore.Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

@@ -51,3 +51,7 @@ C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.Mv
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.dll
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.pdb
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.genruntimeconfig.cache
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Dominio.dll
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Repo.dll
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Dominio.pdb
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Repo.pdb

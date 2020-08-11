@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8d8pKQJdLeUaDGM8IRi+5JrmwW1HH5P7ca4X6hvt1xhCP0CFjQlWrAcrN4AbURSurdziqMit7sNbI6OeAcfPRA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\EFCore.WebApi\\EFCore.Dominio\\EFCore.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THIAGO BEPPLER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\THIAGO BEPPLER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
