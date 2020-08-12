@@ -33,6 +33,8 @@ namespace EFCore.WebApi
 
             });
 
+            services.AddScoped<IEFCoreRepository, EFCoreRepository>();
+
             services.AddControllers();
         }
 
