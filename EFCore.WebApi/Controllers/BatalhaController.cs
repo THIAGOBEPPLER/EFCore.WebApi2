@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Threading.Tasks;
 using EFCore.Dominio;
 using EFCore.Repo;
@@ -28,7 +29,7 @@ namespace EFCore.WebApi.Controllers
         {
             try
             {
-                var herois = await _repo.GetAllBatalhas();
+                var herois = await _repo.GetAllBatalhas(true);
 
                 return Ok(herois);
             }
@@ -39,11 +40,12 @@ namespace EFCore.WebApi.Controllers
         }
 
         // GET api/<BatalhaController>/5
-        [HttpGet("{id}", Name = "GetBatalha")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)
         {
             try
             {
+
                 var herois = await _repo.GetBatalhaById(id, true);
 
                 return Ok(herois);

@@ -46,8 +46,6 @@ C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.ru
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.dll
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.pdb
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.csproj.CoreCompileInputs.cache
-C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.dll
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.pdb
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.genruntimeconfig.cache
@@ -55,3 +53,9 @@ C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Dominio.d
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Repo.dll
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Dominio.pdb
 C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.Repo.pdb
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\EFCore.WebApi\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.MvcApplicationPartsAssemblyInfo.cache

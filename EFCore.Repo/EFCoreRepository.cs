@@ -114,7 +114,7 @@ namespace EFCore.Repo
                        .ThenInclude(heroib => heroib.Heroi);
             }
 
-            query = query.OrderBy(h => h.Id);
+            query = query.Where(x => x.Id == id);
 
             return await query.FirstOrDefaultAsync();
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8d8pKQJdLeUaDGM8IRi+5JrmwW1HH5P7ca4X6hvt1xhCP0CFjQlWrAcrN4AbURSurdziqMit7sNbI6OeAcfPRA==",
+  "dgSpecHash": "WvlBu9gUNqBm1iPMEsPq6bBFVevoTTuZn3HetTrD0dq+Wb3WU7Q9y09lWBuN6qjEGHxnBE0rWDvTOfcqC/B+iQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\EFCore.WebApi\\EFCore.Dominio\\EFCore.Dominio.csproj",
   "expectedPackageFiles": [
